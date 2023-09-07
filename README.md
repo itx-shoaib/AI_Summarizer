@@ -1,8 +1,9 @@
-# React + Vite
+🚀 Excited to share my latest project! I've been honing my skills in ReactJS, Tailwind CSS, and Redux Toolkit, and here's the result.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👉 https://summarizehub.netlify.app/
 
-Currently, two official plugins are available:
+This project addresses a real-world problem, making long articles into easier for everybody.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔧 I utilized ReactJS to create a responsive and dynamic user interface.
+🎨 Tailwind CSS helped me design a sleek and modern UI.
+🧰 Redux Toolkit ensured efficient state management.
